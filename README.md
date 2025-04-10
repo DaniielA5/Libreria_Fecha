@@ -54,9 +54,8 @@ El archivo principal es Ffecha.java, que contiene todos los métodos estáticos 
 
 ## 🖼 Capturas del JFrame usando la librería 
 
+---![Uploading image.png…]()
 
-
----
 
 ## 🎥 Enlace al video demostrativo
 
