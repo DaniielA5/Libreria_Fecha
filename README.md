@@ -58,7 +58,13 @@ Frame principal
 # Bienvenidos
 ![Bienvenidos](unolibreria.png)
 
-unolibreria.png
+#Despues de la ventana de Bienvenidos rellenamos datos y nos proporionara otra ventana con 
+#Datos que nos genera nuestra Lireria Fecha 
+![PanelREsultado](Screenshot 2025-04-12 213430.png)
+#Codigo de nuestra clase Fecha 
+
+
+![Clase Fecha ](Screenshot 2025-04-12 213155.png)
 
 
 
