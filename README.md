@@ -61,10 +61,10 @@ Frame principal
 #Despues de la ventana de Bienvenidos rellenamos datos y nos proporionara otra ventana con 
 #Datos que nos genera nuestra Lireria Fecha 
 
-![PanelREsultado](Screenshot2025-04-12213430.png)
+![PanelREsultado](ventanadosR)
 #Codigo de nuestra clase Fecha 
 
-![Clase Fecha ](Screenshot2025-04-12213155.png)
+![Clase Fecha ](Fecha1)
 
 
 
