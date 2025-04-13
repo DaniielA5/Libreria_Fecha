@@ -55,8 +55,10 @@ El archivo principal es Ffecha.java, que contiene todos los métodos estáticos 
 ## 🖼 Capturas del JFrame usando la librería 
 
 Frame principal 
+# Bienvenidos
+![Bienvenidos](unolibreria.png)
 
-![Viendvenidos](.unolibreria.png)
+unolibreria.png
 
 
 
