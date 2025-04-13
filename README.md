@@ -64,7 +64,7 @@ Frame principal
 ![PanelResultado](ventanadosR.png)
 #Codigo de nuestra clase Fecha 
 
-![ClaseFecha ](Fecha1,png)
+![ClaseFecha](Fecha1.png)
 
 
 
